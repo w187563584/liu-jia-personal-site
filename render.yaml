@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: liu-jia-personal-site
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    autoDeploy: true

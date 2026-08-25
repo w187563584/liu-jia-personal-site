@@ -1,0 +1,9 @@
+{
+  "name": "liu-jia-personal-site",
+  "version": "1.0.0",
+  "private": true,
+  "description": "刘佳个人网站静态资源服务",
+  "scripts": {
+    "start": "node server.js"
+  }
+}

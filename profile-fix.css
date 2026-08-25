@@ -1,0 +1,1 @@
+.profile-grid>img{width:100%;height:auto;max-height:510px;object-fit:contain;object-position:center;background:var(--soft);display:block}.profile-grid{align-items:start}.profile-grid>div{padding-top:18px}@media(max-width:700px){.profile-grid>img{width:100%;height:auto;max-height:390px;object-fit:contain;margin-bottom:55px}}
